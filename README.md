@@ -37,7 +37,7 @@ docker run --rm -it --device /dev/dri \
 
 The goal of this practice is to implement the autonomous navigation and perception logic that allows a quadrotor to search for, recognize the faces of, and save the locations of lost survivors at sea in order to enable a subsequent rescue maneuver.
 
-![Virtual Simulation Environment](./environment.png)
+![Virtual Simulation Environment](./Images/environment.png)
 
 *Figure 1: Virtual simulation environment in JdeRobot Robotics Academy showing the dual WebGUI camera panels (top) and the Gazebo Sim marine scenario with the floating survivors (bottom).*
 
