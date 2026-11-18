@@ -151,4 +151,10 @@ The table below preserves the baseline values from the **Initial Version** along
 
 * **Accurate Boat Deck Touchdown & Reporting:** Recording the initial deck elevation ($Z_{\text{start}}$) at startup ensures touchdown is accurately detected when $Z_c \le Z_{\text{start}} + 0.25\text{ m}$, immediately printing the final rescue report with both decimal GPS coordinates and local ENU coordinates for all $6$ victims.
 
+### Successful Execution Example
+
+![HAL-Based Implementation Successful Execution](./Images/example_HAL_version.jpg)
+
+*Visual confirmation of a completed mission: the drone has landed back on the safety boat (`FINISHED | Found: 6/6`) and printed the final GPS and local ENU coordinates for all six survivors in the console.*
+
 ---
