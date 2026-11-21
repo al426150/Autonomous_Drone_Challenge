@@ -151,10 +151,11 @@ The table below preserves the baseline values from the **Initial Version** along
 
 * **Accurate Boat Deck Touchdown & Reporting:** Recording the initial deck elevation ($Z_{\text{start}}$) at startup ensures touchdown is accurately detected when $Z_c \le Z_{\text{start}} + 0.25\text{ m}$, immediately printing the final rescue report with both decimal GPS coordinates and local ENU coordinates for all $6$ victims.
 
-### Successful Execution Example
+### Visual & Video Demonstration
 
 ![HAL-Based Implementation Successful Execution](./Images/example_HAL_version.png)
 
-*Visual confirmation of a completed mission: the drone has landed back on the safety boat (`FINISHED | Found: 6/6`) and printed the final GPS and local ENU coordinates for all six survivors in the console.*
+Figure 1: Successful mission completion in the HAL-based implementation (FINISHED | Found: 6/6), showing the quadrotor safely landed back on the safety boat deck and the final rescue report printed in the console.
 
+* **Full Execution Video Demonstration:** [Watch Video on Google Drive (All 6/6 Faces Detected & Safe Return)](https://drive.google.com/file/d/1Sq_tSTiu0yIX2BIe87TQG6aR855z4k1N/view?usp=drive_link) — *Demonstrates the complete autonomous flight, the tight Archimedean spiral sweep, real-time detection of all six floating survivors without duplicates, and the final landing on the boat.*
 ---
