@@ -153,7 +153,7 @@ The table below preserves the baseline values from the **Initial Version** along
 
 ### Successful Execution Example
 
-![HAL-Based Implementation Successful Execution](./Images/example_HAL_version.jpg)
+![HAL-Based Implementation Successful Execution](./Images/example_HAL_version.png)
 
 *Visual confirmation of a completed mission: the drone has landed back on the safety boat (`FINISHED | Found: 6/6`) and printed the final GPS and local ENU coordinates for all six survivors in the console.*
 
