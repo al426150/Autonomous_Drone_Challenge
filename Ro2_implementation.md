@@ -93,4 +93,6 @@ In `v1`, the drone locates all $6$ survivors in $5\text{ min } 12\text{ s}$ of s
 
 In `v2`, the improved localization and quaternion-aligned `ALIGN_BOAT` handoff complete the entire mission in **$2\text{ min } 35\text{ s}$ of simulated time** ($7\text{ min } 40\text{ s}$ real time at $31.31\%$ RTF) and land the drone squarely on the center of the boat's landing pad:
 
+* **Full Execution Video (Best Time - ROS 2 `v2`):** [Watch Mission Recording on Google Drive](https://drive.google.com/file/d/14fDceg9GdwtGD1c1nAIPiJrwfNy9VBzK/view?usp=sharing)
+
 ![ROS 2 v2 Execution](./Images/Ro2_v2.png)
